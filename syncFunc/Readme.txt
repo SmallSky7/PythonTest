@@ -1,3 +1,0 @@
-配合同步2.0内存表小工具syncFunc使用
-
-读取syncFunc.exe目录，调用cmd执行
